@@ -1,0 +1,51 @@
+G:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.exe.config
+G:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.exe
+G:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.pdb
+G:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.xml
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.vbprojAssemblyReference.cache
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza_order.Form1.resources
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza_order.Resources.resources
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.GenerateResource.cache
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.CoreCompileInputs.cache
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.exe
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.xml
+G:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.pdb
+E:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.exe.config
+E:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.exe
+E:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.pdb
+E:\project #2\Pizza order\Pizza order\bin\Debug\Pizza order.xml
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.vbprojAssemblyReference.cache
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza_order.Form1.resources
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza_order.Resources.resources
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.GenerateResource.cache
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.CoreCompileInputs.cache
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.exe
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.xml
+E:\project #2\Pizza order\Pizza order\obj\Debug\Pizza order.pdb
+G:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.exe.config
+G:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.exe
+G:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.pdb
+G:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.xml
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.vbprojAssemblyReference.cache
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza_order.Form1.resources
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza_order.Resources.resources
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.GenerateResource.cache
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.CoreCompileInputs.cache
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.exe
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.xml
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.pdb
+G:\project #4\Pizza order\Pizza order\obj\Debug\Pizza_order.FrmPop.resources
+E:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.exe.config
+E:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.exe
+E:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.pdb
+E:\project #4\Pizza order\Pizza order\bin\Debug\Pizza order.xml
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.vbprojAssemblyReference.cache
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza_order.Form1.resources
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza_order.FrmPop.resources
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza_order.Resources.resources
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.GenerateResource.cache
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.vbproj.CoreCompileInputs.cache
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.exe
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.xml
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza order.pdb
+E:\project #4\Pizza order\Pizza order\obj\Debug\Pizza_order.AboutBox1.resources
